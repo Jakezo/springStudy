@@ -6,7 +6,7 @@ public class Car {
 	private String model;
 	private int price;
 	
-	// constructor
+	// constructorssss
 	public Car() {
 		
 	}
